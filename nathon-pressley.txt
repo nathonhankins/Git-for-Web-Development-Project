@@ -1,4 +1,4 @@
- -------->     https://codepen.io/Nathonhankins/full/MWmXwQO     <--------
+ -------->     https://codepen.io/Nathonhankins/full/MWmXwQO     
  
 
  1. What is Semantic HTML? 
